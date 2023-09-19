@@ -15,6 +15,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larissamiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissamiguel&layout=compact&langs_count=7&theme=radical"/>
 </div>
+   
+## 🚀💻 Technologies & Tools
+
   <div style="display: inline_block"><br>
    <img align="center" alt="Lari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
    <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,9 +29,8 @@
 </div>
 
 ## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dexternatan&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+  
+![Snake animation](https://github.com/larissamiguel/larissamiguel/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 
