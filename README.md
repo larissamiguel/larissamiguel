@@ -12,10 +12,13 @@
 - ✈️ Viajante.
 
 
+## 📲🔍Conecte-se comigo:
+
 [![Linkedin Badge](https://img.shields.io/badge/-larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissamiguel/)](https://www.linkedin.com/in/larissamiguel/)
 [![Instagram Badge](https://img.shields.io/badge/-laris.mss-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/laris.mss/?hl=pt-br)](https://instagram.com/laris.mss)
 [![Medium Badge](https://img.shields.io/badge/-@larissa-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@larissamiguel/)](https://medium.com/@larissamiguel)
 [![Gmail Badge](https://img.shields.io/badge/-larissamiguelsousa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissamiguelsousa@gmail.com)](mailto:larissamiguelsousa@gmail.com)
+
 
 ## 🚀💻 Technologies & Tools
 
