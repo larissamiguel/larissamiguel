@@ -12,6 +12,8 @@
 - ✈️ Viajante.
 
 
+
+
 ## 📲🔍Conecte-se comigo:
 
 [![Linkedin Badge](https://img.shields.io/badge/-larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissamiguel/)](https://www.linkedin.com/in/larissamiguel/)
