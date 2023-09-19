@@ -10,20 +10,10 @@
 - ✈️ Viajante.
 
 
-<div>
-<a href="https://github.com/larissamiguel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-## Contatos:
-
-<div>
-<a href="https://instagram.com/laris.mss/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:larissamiguelsousa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/larissamiguel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
+ <div>
+  <a href="https://github.com/larissamiguel">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=larissamiguel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroita&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Lari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg">
@@ -35,3 +25,10 @@
    
 </div>
 
+## Contatos:
+
+<div>
+<a href="https://instagram.com/laris.mss/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:larissamiguelsousa@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/larissamiguel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
