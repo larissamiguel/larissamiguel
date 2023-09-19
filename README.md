@@ -1,4 +1,6 @@
-### Olá, Devs! Eu sou Larissa Miguel. 👋
+<p align="left"><img src="https://komarev.com/ghpvc/?username=dexternatan" alt="dexternatan" /></p>
+
+<h1 align = "justify"> Olá, Devs! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Eu sou Larissa Miguel</h1>
 
 - 🎓 Engenheira de Software.
 - 💻 Analista de Requisitos e Analista de Testes/QA.
